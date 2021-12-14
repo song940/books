@@ -1,0 +1,38 @@
+[
+    {
+        "title": "How Not to Be Wrong",
+        "description": "The Power of Mathematical Thinking",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41xvcI00DxL._SX320_BO1,204,203,200_.jpg",
+        "link": "https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535"
+    },
+    {
+        "title": "Antifragile",
+        "description": "Things That Gain from Disorder (Incerto)",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41df96UgA5L._SX323_BO1,204,203,200_.jpg",
+        "link": "https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680"
+    },
+    {
+        "title": "Thinking, Fast and Slow",
+        "description": "Things That Gain from Disorder (Incerto)",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41wI53OEpCL._SX332_BO1,204,203,200_.jpg",
+        "link": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+    },
+    {
+        "title": "Rework",
+        "description": "Rework shows you a better, faster, easier way to succeed in business. ",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41woojfwaaL._SX329_BO1,204,203,200_.jpg",
+        "link": "https://www.amazon.com/Rework-Jason-Fried/dp/0307463745"
+    },
+    {
+        "title": "Hackers & Painters",
+        "description": "Big Ideas from the Computer Age",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51ok0jWkjaL._SY344_BO1,204,203,200_.jpg",
+        "link": "https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554"
+    },
+    {
+        "title": "Zen and the Art of Motorcycle Maintenance",
+        "description": "An Inquiry into Values",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41vxAMcHOzL._SX307_BO1,204,203,200_.jpg",
+        "link": "https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469"
+    }
+]
