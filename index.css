@@ -1,0 +1,35 @@
+.books {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.book {
+  width: 25%;
+  flex: 1 1 auto;
+  overflow: hidden;
+  text-align: center;
+}
+
+.book a {
+  text-decoration: none;
+}
+
+.book h3 {
+  font-size: 14px;
+}
+
+.book p {
+  font-size: 12px;
+}
+
+.book img {
+  width: 150px;
+  height: 220px;
+}
+
+@media screen and (max-width: 768px) {
+  .book {
+    width: 50%;
+  }
+}
