@@ -1,5 +1,5 @@
 import { ready } from 'https://lsong.org/scripts/dom.js';
-import { h, render, useState, useEffect } from 'https://unpkg.com/htm/preact/standalone.module.js';
+import { h, render, useState, useEffect } from 'https://lsong.org/scripts/components/react.js';
 
 
 const getBooks = async () => {
