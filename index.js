@@ -1,13 +1,11 @@
 import { ready } from 'https://lsong.org/scripts/dom.js';
-import { h, render, useState, useEffect } from 'https://lsong.org/scripts/components/react.js';
-
+import { h, render, useState, useEffect } from 'https://lsong.org/scripts/react/index.js';
 
 const getBooks = async () => {
   const response = await fetch('books.json');
   const books = await response.json();
   return books;
 };
-
 
 const App = () => {
   const [books, setBooks] = useState([]);
